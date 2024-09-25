@@ -1,9 +1,12 @@
 # DSD Manager
 
-다운로드 및 사용방법
+Information
 ----------------------------
 - 다운로드: https://github.com/AforAsCo/DSDManager/releases
 - 사용방법: https://github.com/AforAsCo/DSDManager/wiki
+- 오류보고: https://github.com/AforAsCo/DSDManager/issues
+- ChangeLog
 
+ChangeLog
 -----------
 
