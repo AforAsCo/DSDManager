@@ -1,4 +1,4 @@
-![](https://github.com/AforAsCo/DSDManager/AforAs1.png)
+![AforAs](AforAs1.png)
 
 # DSD Manager
 
