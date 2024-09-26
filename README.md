@@ -1,4 +1,4 @@
-![AforAs](AforAs1.png)
+![AforAs](images/roundedstretched30AforAs.png)
 
 # DSD Manager
 
